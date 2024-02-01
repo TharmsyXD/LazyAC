@@ -1,0 +1,5 @@
+name: LazyAC
+version: '${version}'
+main: ac.lazy.lazyac.LazyAC
+api-version: '1.20'
+load: STARTUP
